@@ -8,7 +8,7 @@ class Bezruch():
         pass
     def ruch(self):
         print('Nie ruszam sie')
-class Labedz:
+class Labedz():
     def __init__(self):
         pass
     def strategia(self, obiekt):
